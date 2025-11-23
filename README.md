@@ -26,5 +26,26 @@
     - 화재 감지 및 소화전 문 및 밸브 개방 제어
     - 안정적인 전력 공급을 위한 회로 부품 설계
 
+  ### 팀원 역할
+  <img width="337" alt="역할" src="https://github.com/IMJONGBEOM/Initial-Fire-Attack-Robots-using-Fire-Hydrant/assets/168509536/30204cd3-8f68-404c-b17d-ef990e549e62">
 
-    
+  ### 기술 스택
+<img width="440" alt="스크린샷 2024-05-08 165016" src="https://github.com/IMJONGBEOM/Initial-Fire-Attack-Robots-using-Fire-Hydrant/assets/168509536/5bc23cc5-38df-49a4-937e-33516c939d4c">
+
+
+  ### 수행 일정
+  <img width="337" alt="화면 캡처 2024-06-22 163315" src="https://github.com/IMJONGBEOM/Initial-Fire-Attack-Robots-using-Fire-Hydrant/assets/168509536/c718252d-7fb9-4246-929a-c7b88b28565e">
+
+
+## 3. 프로젝트 내 역할 
+  - Bluetooth 통신으로 모빌리티에 방수 신호를 전달 및 처리하여 소화전 문 및 밸브 개발 모듈 개발
+  - 로봇의 Li Po 4s, BMS, DC/DC 컨버터로 전원회로 설계
+  - JetsonNano에 ROS환경 구성, 2륜 궤도형 로봇에 UART 통신으로 Teleoperation 개발
+  - 2륜 궤도형 Encoder DC 모터의 PID 제어 및 Odometry 정보와 IMU센서로 이동정보로 LiDAR기반 SLAM, Navigation 개발
+
+
+## 4. 성과
+  - 2023 창의적 종합 설계 경진대회에서 산업통상자원부 장관상(최우수상)을 수상
+
+## 5. 영상    
+  https://youtu.be/pEhYE7_AviA
