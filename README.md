@@ -42,6 +42,7 @@
   - 로봇의 Li Po 4s, BMS, DC/DC 컨버터로 전원회로 설계
   - JetsonNano에 ROS환경 구성, 2륜 궤도형 로봇에 UART 통신으로 Teleoperation 개발
   - 2륜 궤도형 Encoder DC 모터의 PID 제어 및 Odometry 정보와 IMU센서로 이동정보로 LiDAR기반 SLAM, Navigation 개발
+  - 사람, 화재 인식 영상처리 딥러닝 모델 및 객체 인식 알고리즘 개발
 
 
 ## 4. 성과
