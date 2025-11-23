@@ -33,7 +33,6 @@
   <img width="1044" height="444" alt="image" src="https://github.com/user-attachments/assets/6d9dba5e-935d-4a85-876d-f37b774d5a06" />
 
   ### 수행 일정
-  <img width="1044" height="444" alt="image" src="https://github.com/user-attachments/assets/6d9dba5e-935d-4a85-876d-f37b774d5a06" />
   <img alt="image" src="https://github.com/user-attachments/assets/aa87cc7b-d99d-475b-99ee-0a80e15ffdf1" />
 
 
