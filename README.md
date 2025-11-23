@@ -1,5 +1,4 @@
-# Automotive_Hydrant_Mobility_System (2023.03 ~ 2023.12)
-옥내 소화전을 이용한 화재 초기 진압 모빌리티 시스템
+# 옥내 소화전을 이용한 화재 초기 진압 모빌리티 시스템 (2023.03 ~ 2023.12)
 
 
 ## 1. 개발 배경 및 목적 : 옥내 소화전을 이용한 화재 초기 진압 모빌리티
@@ -9,7 +8,6 @@
   - 실내 화재의 초기 진압에서 기존의 소방체제는 실내 화재를 신속하고 정확하게 끌 수 있는 대응 장치부족 합니다. 
   
   - 따라서 본 프로젝트를 통해 기존의 소방 로봇의 단점을 보완하는 옥내 소화전을 사용한 자율주행 화재 초기 진압 Mobility를 개발하였습니다.
-
 
 
 ## 2. 프로젝트 개요 :
@@ -28,7 +26,6 @@
 
   ### 팀원 역할
   <img width="758" height="201" alt="image" src="https://github.com/user-attachments/assets/a946ecb4-1086-4385-ae03-9e67060f807c" />
-
 
   ### 기술 스택
   <img width="1044" height="444" alt="image" src="https://github.com/user-attachments/assets/6d9dba5e-935d-4a85-876d-f37b774d5a06" />
