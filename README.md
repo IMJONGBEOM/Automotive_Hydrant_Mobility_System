@@ -27,7 +27,8 @@
     - 안정적인 전력 공급을 위한 회로 부품 설계
 
   ### 팀원 역할
-  <img width="337" alt="역할" src="https://github.com/IMJONGBEOM/Automotive_Hydrant_Mobility_System/assets/168509536/30204cd3-8f68-404c-b17d-ef990e549e62">
+  <img width="758" height="201" alt="image" src="https://github.com/user-attachments/assets/a946ecb4-1086-4385-ae03-9e67060f807c" />
+
 
   ### 기술 스택
   <img width="1044" height="444" alt="image" src="https://github.com/user-attachments/assets/6d9dba5e-935d-4a85-876d-f37b774d5a06" />
