@@ -33,8 +33,7 @@
 <img width="440" alt="스크린샷 2024-05-08 165016" src="https://github.com/IMJONGBEOM/Automotive_Hydrant_Mobility_System/assets/168509536/5bc23cc5-38df-49a4-937e-33516c939d4c">
 
   ### 수행 일정
-<img width="337" alt="image" src="https://github.com/user-attachments/assets/aa87cc7b-d99d-475b-99ee-0a80e15ffdf1" />
-
+<img alt="image" src="https://github.com/user-attachments/assets/aa87cc7b-d99d-475b-99ee-0a80e15ffdf1" />
 
 
 ## 3. 프로젝트 내 역할 
