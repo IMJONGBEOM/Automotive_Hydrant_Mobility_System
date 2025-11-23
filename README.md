@@ -30,12 +30,11 @@
   <img width="337" alt="역할" src="https://github.com/IMJONGBEOM/Automotive_Hydrant_Mobility_System/assets/168509536/30204cd3-8f68-404c-b17d-ef990e549e62">
 
   ### 기술 스택
-  <img width="800" alt="스크린샷 2024-05-08 165016" src="https://github.com/user-attachments/assets/8705fa56-e94e-4062-9117-ee5e50e470e7"
-
+  <img width="1044" height="444" alt="image" src="https://github.com/user-attachments/assets/6d9dba5e-935d-4a85-876d-f37b774d5a06" />
 
   ### 수행 일정
   <img width="1044" height="444" alt="image" src="https://github.com/user-attachments/assets/6d9dba5e-935d-4a85-876d-f37b774d5a06" />
-
+  <img alt="image" src="https://github.com/user-attachments/assets/aa87cc7b-d99d-475b-99ee-0a80e15ffdf1" />
 
 
 ## 3. 프로젝트 내 역할 
